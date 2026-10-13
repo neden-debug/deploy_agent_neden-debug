@@ -1,0 +1,5 @@
+# Projects and archives created by running deploy_agent.sh
+attendance_tracker_*/
+attendance_tracker_*_archive.zip
+*.bak
+.DS_Store
